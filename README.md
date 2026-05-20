@@ -1,4 +1,6 @@
-# Flower Shop Homepage UI - Web Development Internship Task
+# Flower Shop Homepage UI
+
+**Web Development Internship Task**
 
 Hello! Thank you for the opportunity to complete this practical task. 
 
